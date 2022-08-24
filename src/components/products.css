@@ -1,0 +1,22 @@
+div.child {
+  display: flex;
+  min-width: 500px;
+  justify-content: space-evenly;
+  background-color: lightgray;
+  margin: 0.5rem;
+  align-items: center;
+}
+
+div.btn {
+}
+
+span {
+  margin: 0 0.5rem;
+  font-size: 2rem;
+}
+
+span.plus,
+span.minus {
+  cursor: pointer;
+  font-size: 2rem;
+}
